@@ -23,11 +23,10 @@ Dr. Hugh Xuechen Liu is an interdisciplinary researcher working on how large lan
 
 Besides them, Hugh is also interested in other emerging technologies, including blockchain, augmented reality and science visualization.
 
+#Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization #Gamification
+
 
 
 **More website contents coming soon!**
 
 
-
-
-#Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization #Gamification
