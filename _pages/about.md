@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <a href='https://wasp-hs.org/'>WASP-HS</a> Affiliated Post-doctoral Fellow @ <a href='https://www.chalmers.se/en/persons/xuechen/'>Chalmers University of Technology <br><br> </a>
 
