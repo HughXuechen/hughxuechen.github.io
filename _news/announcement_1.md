@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Hello World! A news
-date: 2024-04-25
-inline: false
+date: 2024-06-17 00:00:00-0000
+inline: true
 related_posts: false
 ---
 
-... Yep, it is just a news.
+Went to [ICCC'24](https://computationalcreativity.net/iccc24/) at the University of Jönköping, in Sweden!
