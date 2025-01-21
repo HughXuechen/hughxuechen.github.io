@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-An interdisciplinary researcher interested in emerging digital technologies, especially their socio-technical affordances.
+An interdisciplinary research in game technologies.
 
 #Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization #Gamification
 
