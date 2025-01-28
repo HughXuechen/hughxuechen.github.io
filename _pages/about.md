@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-An interdisciplinary research in game technologies.
+An interdisciplinary researcher in game technologies.
+
+Now working on AI in game design (pattern) for computational creativity 
 
 #Game #AI #LLM #Creativity #Blockchain #Augmented-Reality #Science-Visualization #Gamification
 
