@@ -19,6 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 #### Exploring AI, game design, and computational creativity through structured knowledge and generative systems.
 
+---
 
 My research focuses on **structured knowledge** and **generative systems** in game technologies.
 
