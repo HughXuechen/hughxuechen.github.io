@@ -17,7 +17,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-### Exploring AI, game design, and computational creativity through structured knowledge and generative systems.
+#### Exploring AI, game design, and computational creativity through structured knowledge and generative systems.
 
 
 My research focuses on **structured knowledge** and **generative systems** in game technologies.
@@ -25,7 +25,6 @@ My research focuses on **structured knowledge** and **generative systems** in ga
 - **Structured knowledge** formalizes **game design patterns, mechanics, and AI frameworks** into graph-based models, such as **Neo4j-powered Game Design Patterns databases**, providing **data-driven insights** for computational creativity.  
 - **Generative systems** leverage **LLMs, procedural generation, and AI tools** to support game design and storytelling. I develop **Godot plugins and AI-driven frameworks** that integrate these systems, enabling new creative possibilities.  
 
-I bridge **game AI, computational creativity, and knowledge-driven design**, making **AI-assisted game development** more structured, explainable, and accessible.  
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns  #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain
 
