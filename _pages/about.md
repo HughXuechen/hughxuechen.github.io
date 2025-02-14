@@ -16,10 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**Exploring game technologies in the most interdisciplined and generative way.**
+> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."  
+> — Richard Feynman  
 
-Currently working on AI for computational creativity in game design patterns.
+**I explore the interdisciplinary impact of game technologies.**  
 
+Currently, I work on **AI, game design, and computational creativity**— I structure knowledge into graph-based models, build generative systems to support game designers.
 
-#Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns  #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain
-
+#Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
