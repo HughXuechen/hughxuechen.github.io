@@ -24,3 +24,8 @@ social: false # includes social icons at the bottom of the page
 Currently, I work on **AI, game design, and computational creativity**— I structure knowledge into graph-based models, build generative systems to support game designers.
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
+
+
+
+> "A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects."  
+> — Robert A. Heinlein 
