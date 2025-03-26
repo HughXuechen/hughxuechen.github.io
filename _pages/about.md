@@ -21,6 +21,10 @@ social: false # includes social icons at the bottom of the page
 
 **I explore the interdisciplinary impact of game technologies.**  
 
-Currently, I work on **AI, game design, and computational creativity**— I structure knowledge into graph-based models, build generative systems to support game designers.
+Currently, I work on **AI, game design, and computational creativity**— in three specific aspects:
+
+- Ontological Game Design Knowledge Engineering.
+- Machine Learning for Game Knowledge Validation and Discovery.
+- Natural Language-driven Game Content Generation in Game Engines.
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
