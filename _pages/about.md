@@ -17,7 +17,8 @@ social: false # includes social icons at the bottom of the page
 ---
 
 > "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."  
-> — Richard Feynman  
+> — Richard Feynman 
+
 
 **I explore the interdisciplinary impact of game technologies.**  
 
@@ -28,3 +29,6 @@ Currently, I work on **AI, game design, and computational creativity**— in thr
 - Natural Language-driven Game Content Generation in Game Engines.
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
+
+> "How could you describe this heart in words without filling a whole book?"
+> - Leonard da Vinci
