@@ -31,4 +31,4 @@ Currently, I work on **AI, game design, and computational creativity**— in thr
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
 
 > "How could you describe this heart in words without filling a whole book?"
-> - Leonard da Vinci
+> — Leonard da Vinci
