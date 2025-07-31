@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-06-17 00:00:00-0000
+date: 2025-06-27 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-Went to [ICCC'24](https://computationalcreativity.net/iccc24/) at the University of Jönköping, in Sweden!
+[Xuechen (Hugh)](https://aicomparts.com/people/hugh_liu/) and [Kıvanç](https://aicomparts.com/people/kivanc_tatar/) are visiting Malmö University for the [Game AI summer school](https://school.gameaibook.org/).
