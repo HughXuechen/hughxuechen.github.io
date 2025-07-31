@@ -28,5 +28,28 @@ Interdisciplinary researcher focused on leveraging emerging technologies to crea
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
 
+## GitHub Activity
+
+<!-- GitHub Stats -->
+{% if site.data.repositories.github_users %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% for user in site.data.repositories.github_users %}
+    {% include repository/repo_user.liquid username=user %}
+  {% endfor %}
+</div>
+{% endif %}
+
+<!-- GitHub Activity Graph -->
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hughxuechen&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- GitHub Trophies -->
+{% if site.repo_trophies.enabled %}
+{% for user in site.data.repositories.github_users %}
+<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
+  {% include repository/repo_trophies.liquid username=user %}
+</div>
+{% endfor %}
+{% endif %}
+
 > "How could you describe this heart in words without filling a whole book?"
 > — Leonard da Vinci
