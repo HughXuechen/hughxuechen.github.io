@@ -31,25 +31,6 @@ Interdisciplinary researcher focused on leveraging emerging technologies to crea
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
 
-## GitHub Activity
-
-<!-- GitHub Contribution Calendar -->
-<div class="calendar">
-    Loading the data just for you.
-</div>
-
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
-</script>
-
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<script>
-    GitHubCalendar(".calendar", "hughxuechen", { responsive: true });
-</script>
 
 > "How could you describe this heart in words without filling a whole book?"
 > — Leonard da Vinci
