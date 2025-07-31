@@ -23,33 +23,16 @@ social: false # includes social icons at the bottom of the page
 Interdisciplinary researcher focused on leveraging emerging technologies to create practical benefits for people. **My current work bridges game studies, AI and machine learning, and gameplay design, emphasizing human-computer interaction and computational creativity**. I am also interested in blockchain and cryptocurrency, game metrics, science visualization, STEM education, and the application of gamification for health promotion in previous works.
 
 - **Computationalizing Game Studies Knowledge**: Constructing AI/ML-friendly game design knowledge bases by integrating existing ontologies and design pattern datasets. This involves transforming theoretical game studies knowledge into machine-readable formats that enable automatic knowledge discovery, pattern completion, and semantic reasoning about game design relationships.
+
 - **AI-Driven Integrated Game Development**: Building upon these knowledge bases to create a comprehensive generation pipeline that enables natural language gameplay description generation and automated code generation in game engines (primarily Godot). This represents a one-stop solution for translating design concepts into playable prototypes.
+
 - **Iterative Refinement through User-Centered Evaluation**: Deploying the generated content and development tools in educational and practical contexts, then leveraging user feedback, experience evaluation, and impact assessment to iteratively improve both the knowledge base and the generation tools. This creates a continuous learning loop that enhances the system's understanding of effective game design and user needs.
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
 
 ## GitHub Activity
 
-<!-- GitHub Stats -->
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.liquid username=user %}
-  {% endfor %}
-</div>
-{% endif %}
-
-<!-- GitHub Activity Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hughxuechen&theme=github-compact&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!-- GitHub Trophies -->
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.liquid username=user %}
-</div>
-{% endfor %}
-{% endif %}
+![GitHub Contribution Calendar](https://github-contributions.vercel.app/api?username=hughxuechen)
 
 > "How could you describe this heart in words without filling a whole book?"
 > — Leonard da Vinci
