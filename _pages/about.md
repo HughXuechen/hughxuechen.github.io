@@ -20,19 +20,36 @@ social: false # includes social icons at the bottom of the page
 > — Richard Feynman 
 
 
-Interdisciplinary researcher focused on leveraging emerging technologies to create practical benefits for people. **My current work bridges game studies, AI and machine learning, and gameplay design, emphasizing human-computer interaction and computational creativity**. I am also interested in blockchain and cryptocurrency, game metrics, science visualization, STEM education, and the application of gamification for health promotion in previous works.
+Interdisciplinary researcher focused on leveraging emerging technologies to create practical benefits for people. **My current work bridges game studies, AI and machine learning, and gameplay design, emphasizing human-computer interaction and computational creativity**. 
 
-- **Computationalizing Game Studies Knowledge**: Constructing AI/ML-friendly game design knowledge bases by integrating existing ontologies and design pattern datasets. This involves transforming theoretical game studies knowledge into machine-readable formats that enable automatic knowledge discovery, pattern completion, and semantic reasoning about game design relationships.
+- **Computationalizing Game Studies Knowledge**: Constructing AI/ML-friendly game design knowledge bases by integrating existing ontologies and design pattern datasets. 
 
-- **AI-Driven Integrated Game Development**: Building upon these knowledge bases to create a comprehensive generation pipeline that enables natural language gameplay description generation and automated code generation in game engines (primarily Godot). This represents a one-stop solution for translating design concepts into playable prototypes.
+- **AI-Driven Integrated Game Development**: Building upon these knowledge bases to create a comprehensive generation pipeline that enables natural language gameplay description generation and automated code generation in game engines (primarily Godot). 
 
-- **Iterative Refinement through User-Centered Evaluation**: Deploying the generated content and development tools in educational and practical contexts, then leveraging user feedback, experience evaluation, and impact assessment to iteratively improve both the knowledge base and the generation tools. This creates a continuous learning loop that enhances the system's understanding of effective game design and user needs.
+- **Iterative Refinement through User-Centered Evaluation**: Deploying the generated content and development tools in educational and practical contexts, then leveraging user feedback, experience evaluation, and impact assessment to iteratively improve both the knowledge base and the generation tools.
+
 
 #Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
 
 ## GitHub Activity
 
-![GitHub Contribution Calendar](https://github-contributions.vercel.app/api?username=hughxuechen)
+<!-- GitHub Contribution Calendar -->
+<div class="calendar">
+    Loading the data just for you.
+</div>
+
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js">
+</script>
+
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<script>
+    GitHubCalendar(".calendar", "hughxuechen", { responsive: true });
+</script>
 
 > "How could you describe this heart in words without filling a whole book?"
 > — Leonard da Vinci
