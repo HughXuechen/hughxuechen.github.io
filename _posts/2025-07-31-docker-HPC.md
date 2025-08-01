@@ -78,7 +78,7 @@ HPC: SSH tunnel macOS → vera2 → compute node:random port
 | Phase 2  | Docker + WSL/Linux    | SSH → WSL           | GPU training, cross-platform collaboration |
 | Phase 3  | Apptainer + HPC       | SSH → cluster       | Large-scale computation, production deployment |
 
-#  Core Value Summary
+##  Core Value Summary
 
 The elegance of this logic:
 1. Progressive complexity: Only increase technical complexity when truly needed
@@ -86,7 +86,7 @@ The elegance of this logic:
 3. Connection reuse: macOS serves as the unified development entry point, SSH as the universal connection method
 4. Technical debt management: Each phase solves the most important problem at that stage
 
-# Final outcomes:
+## Final outcomes:
 -  One codebase, runs in multiple environments
 -  Unified development experience (all via Jupyter Lab)
 -  Flexible resource allocation (local → GPU → HPC)
