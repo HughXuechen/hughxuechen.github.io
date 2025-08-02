@@ -30,8 +30,7 @@ Interdisciplinary researcher using emerging technologies to create meaningful ex
 
 - **User-Centered AI Systems**: Designing AIs for diverse users and purposes (e.g., general game design, game for education and health promotion).
 
-
-#Game #AI #LLM #Creativity #ComputationalCreativity #Neo4j #GameDesign #DesignPatterns #GenerativeAI #Godot #Gamification #AugmentedReality #ScienceVisualization #Blockchain  
+#AI #GameDesign #ComputationalCreativity #LLM #GenerativeAI #HCI #Neo4j #Godot #Blockchain #AR #ScienceViz #Gamification
 
 
 > "How could you describe this heart in words without filling a whole book?"
