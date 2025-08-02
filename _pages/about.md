@@ -20,15 +20,15 @@ social: false # includes social icons at the bottom of the page
 > — Richard Feynman 
 
 
-Interdisciplinary researcher using emerging technologies to create meaningful experiences for people.
+Interdisciplinary researcher using **emerging technologies** to create **meaningful experiences for people**.
 
-**My current work combines game studies, AI/ML, and gameplay design, focusing on human-computer interaction and computational creativity**.
+My current work combines **game studies**, **AI/ML**, and **gameplay design**, focusing on **human-computer interaction** and **computational creativit**y.
 
 - **Building Game Design Knowledge Bases**: Creating AI-friendly databases of game design patterns and principles.
 
-- **AI-Powered Game Development**: "I want to make a game like Super Mario Bros." - Tell my AI this, and it generates Godot game engine code for you.
+- **AI-Powered Game Development**: From idea to code: Tell my AI “Make a game like Super Mario Bros.” — it generates playable code in Godot.
 
-- **User-Centered AI Systems**: Designing AIs for diverse users and purposes (e.g., general game design, game for education and health promotion).
+- **User-Centered AI Systems**: Designing AI tools for diverse goals — education, health, creativity — and diverse users, from designers to domain experts.
 
 #AI #GameDesign #ComputationalCreativity #LLM #GenerativeAI #HCI #Neo4j #Godot #Blockchain #AR #ScienceViz #Gamification
 
