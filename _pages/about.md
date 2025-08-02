@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 
 Interdisciplinary researcher using emerging technologies to create meaningful experiences for people.
 
-**My work combines game studies, AI/ML, and gameplay design, focusing on human-computer interaction and computational creativity**.
+**My current work combines game studies, AI/ML, and gameplay design, focusing on human-computer interaction and computational creativity**.
 
 - **Building Game Design Knowledge Bases**: Creating AI-friendly databases of game design patterns and principles.
 
