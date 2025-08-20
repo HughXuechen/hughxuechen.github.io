@@ -16,13 +16,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."  
-> — Richard Feynman 
+> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."
+> — Richard Feynman
 
 
 Interdisciplinary researcher using **emerging technologies** to create **meaningful experiences for people**.
 
-My current work combines **game studies**, **AI/ML**, and **gameplay design**, focusing on **human-computer interaction** and **computational creativit**y.
+Currently, I am working on game studies knowledge discovery, completion, and utilization through AI/ML for explainable and accessible game design. Three work-in-progress specifically:
 
 - **Building Game Design Knowledge Bases**: Creating AI-friendly databases of game design patterns and principles.
 
