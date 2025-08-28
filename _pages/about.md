@@ -34,4 +34,4 @@ Currently, I am working on game studies knowledge discovery, completion, and uti
 
 
 > "How could you describe this heart in words without filling a whole book?"
-> — Leonard da Vinci
+> — Leonardo da Vinci
