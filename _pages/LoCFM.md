@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 4
 ---
-# LoCFM (Lab of Computational Future Media, pronounced ``look F M``)
+**LoCFM (Lab of Computational Future Media, pronounced ``look F M``)**
 
 LoCFM is a pre-lab initiative built around a simple bet - games and interactive systems are the sharpest lens we have for understanding where computational media is going next.
 
