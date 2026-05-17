@@ -11,3 +11,4 @@ assets/libs/
 node_modules/
 vendor
 .claude/
+local_doc/
