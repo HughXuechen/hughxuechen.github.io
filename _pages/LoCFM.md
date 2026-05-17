@@ -4,7 +4,7 @@ permalink: /LoCFM/
 title: LoCFM - A Research Initiative
 description: 
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 **LoCFM (Lab of Computational Future Media, pronounced ``look F M``)**
 
