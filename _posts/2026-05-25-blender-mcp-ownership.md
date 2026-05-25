@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Claude × Blender MCP: Building a Playable Ownership Pattern in (Less Than) One Morning"
+title: "Claude × Blender MCP: Building a Game Playthrough Video in (Less Than) One Morning"
 date: 2026-05-25 00:00:00
 description: Using Claude's Blender MCP to prototype a game design pattern — Ownership — as a playthrough video, without a game engine.
 tags: LLM gamedev blender MCP
