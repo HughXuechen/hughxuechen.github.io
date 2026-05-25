@@ -16,9 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible."
-> — Richard Feynman
+> "Study hard what interests you the most in the most undisciplined, irreverent and original manner possible." — Richard Feynman
 
+> "Boys, be ambitious! (少年よ、大志を抱け!)" - William S. Clark
 
 Interdisciplinary researcher using **emerging technologies** to create **meaningful experiences for people**.
 
