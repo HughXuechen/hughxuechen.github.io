@@ -22,16 +22,16 @@ social: false # includes social icons at the bottom of the page
 
 Interdisciplinary researcher using **emerging technologies** to create **meaningful experiences for people**.
 
-Currently, my research explores game studies knowledge discovery, completion, and utilization through AI/ML, with the aim of enabling explainable and accessible game design.
+My research makes **game research knowledge machine-actionable**, with a current focus on game design knowledge: translating theories from game studies — ontologies, design patterns — into knowledge bases, generation pipelines, and evaluation frameworks that AI/ML systems can grasp, use, and extend.
 
-My ongoing work develops along three directions:
-- **Computationalizing Game Design Knowledge**: Building AI-friendly knowledge bases of game design principles and patterns (ontologies, knowledge graphs, knowledge discovery).
+Three research lines carry this programme:
+- **Computationalizing Game Design Knowledge** (*formalize*): Building AI-friendly knowledge bases of game design principles and patterns (ontologies, knowledge graphs, GNN-based knowledge discovery).
 
-- **Explainable & Generative Game Development**: Creating AI systems that transform high-level design intent (e.g., “make a platformer like Super Mario Bros.”) into interpretable, playable code in engines such as Godot.
+- **AI-Driven Game Development** (*operationalize*): Creating AI systems that transform high-level design intent (e.g., “make a platformer like Super Mario Bros.”) into interpretable, playable code in Unity — with evaluation frameworks that measure whether generated scenes are actually correct.
 
-- **User-Centered AI for Games**: Designing AI tools to support diverse users (designers, educators, domain experts) and purposes (creativity, education, health), ensuring accessibility and transparency.
+- **User-Centered AI for Games** (*validate*): Studying how players, designers, and students work with AI systems, across creativity, education, and health — ensuring accessibility and transparency.
 
-#AI #GameDesign #ComputationalCreativity #LLM #GenerativeAI #HCI #KnowledgeGraph #Neo4j #Godot #Blockchain #AR #ScienceViz #Gamification
+#AI #GameDesign #ComputationalCreativity #LLM #GenerativeAI #HCI #KnowledgeGraph #Neo4j #Unity #Blockchain #AR #ScienceViz #Gamification
 
 
 > "How could you describe this heart in words without filling a whole book?"

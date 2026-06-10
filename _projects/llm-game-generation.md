@@ -1,7 +1,7 @@
 ---
 layout: page
 title: LLM-Driven Game Scene Generation & Evaluation
-description: Evaluating and improving how large language models generate executable game code in Unity and Godot, with multi-axis evaluation beyond compile-pass rate.
+description: Evaluating and improving how large language models generate executable game code in Unity, with multi-axis evaluation beyond compile-pass rate.
 img:
 importance: 2
 category: work
