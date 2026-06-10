@@ -20,9 +20,9 @@ social: false # includes social icons at the bottom of the page
 
 > "Boys, be ambitious! (少年よ、大志を抱け!)" - William S. Clark
 
-Interdisciplinary researcher using **emerging technologies** to create **meaningful experiences for people**.
+I study how **emerging technical infrastructures** reshape **creative and cultural practice** — by **building with them**. Geolocation AR, blockchain, and now generative AI have each served as substrates for this same question.
 
-My research makes **game research knowledge machine-actionable**, with a current focus on game design knowledge: translating theories from game studies — ontologies, design patterns — into knowledge bases, generation pipelines, and evaluation frameworks that AI/ML systems can grasp, use, and extend.
+Currently, this means making **game research knowledge machine-actionable**, with a focus on game design knowledge: translating theories from game studies — ontologies, design patterns — into knowledge bases, generation pipelines, and evaluation frameworks that AI/ML systems can grasp, use, and extend.
 
 Three research lines carry this programme:
 - **Computationalizing Game Design Knowledge** (*formalize*): Building AI-friendly knowledge bases of game design principles and patterns (ontologies, knowledge graphs, GNN-based knowledge discovery).
