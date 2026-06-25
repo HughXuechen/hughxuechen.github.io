@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://wasp-hs.org/'>The Wallenberg AI, Autonomous Systems and Software Program – Humanity and Society (WASP-HS)</a> Affiliated Post-doctoral Fellow
+subtitle: <a href='https://wasp-hs.org/'>The Wallenberg AI, Autonomous Systems and Software Program – Humanity and Society (WASP-HS)</a> Affiliated Post-doctoral Fellow @ <a href='https://www.chalmers.se/en/persons/xuechen/'>Chalmers University of Technology <br><br> </a> and <a href='https://www.gu.se/en/about/find-staff/xuechenliu'>University of Gothenburg <br><br> </a>
 
 profile:
   align: right
