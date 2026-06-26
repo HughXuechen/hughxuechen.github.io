@@ -12,3 +12,4 @@ node_modules/
 vendor
 .claude/
 local_doc/
+CLAUDE.md
