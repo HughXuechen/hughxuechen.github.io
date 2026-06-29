@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 > "Boys, be ambitious! (少年よ、大志を抱け!)" - William S. Clark
 
-I study how **emerging technical infrastructures** reshape **creative and cultural practice** — by **building with them**. Geolocation AR, blockchain, and now generative AI have each served as substrates for this same question.
+I get my hands on **emerging technical infrastructures** to ask how they reshape **creative, cultural, and media practice** — by **building and playing with them**, then turning what I find into theory and working artefacts. Geolocation AR, blockchain, and now generative AI have each been a substrate for this same question.
 
 Currently, this means making **game research knowledge machine-actionable**, with a focus on game design knowledge: translating theories from game studies — ontologies, design patterns — into knowledge bases, generation pipelines, and evaluation frameworks that AI/ML systems can grasp, use, and extend.
 
