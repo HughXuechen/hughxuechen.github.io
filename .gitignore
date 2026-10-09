@@ -13,3 +13,4 @@ vendor
 .claude/
 local_doc/
 CLAUDE.md
+ruff.toml
